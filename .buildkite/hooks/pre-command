@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/sh
 echo 'Local pre-command hook'
 export LOCAL_PRE_CHECKOUT=1
 exit 0

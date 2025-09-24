@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/sh
 echo 'Local post-command hook'
 export LOCAL_POST_COMMAND=1
 exit 0

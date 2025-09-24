@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/sh
 echo 'Local environment hook'
 export LOCAL_ENVIRONMENT=1
 exit 0
