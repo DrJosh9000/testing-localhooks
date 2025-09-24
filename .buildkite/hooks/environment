@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+echo 'Local environment hook'
+exit 0

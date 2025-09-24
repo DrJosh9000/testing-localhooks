@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+echo 'Local post-checkout hook'
+exit 0
