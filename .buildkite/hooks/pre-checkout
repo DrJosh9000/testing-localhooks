@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 echo 'Local pre-checkout hook'
+export LOCAL_PRE_CHECKOUT=1
 exit 0
